@@ -8,7 +8,6 @@ import org.junit.Assert;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import seleniumgluecode.TestBase;
 
-
 /**
  * Test implementation class
  * @author CSanabria
